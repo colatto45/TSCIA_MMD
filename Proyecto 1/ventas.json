@@ -1,0 +1,22 @@
+[
+  {
+    "id_venta": 1,
+    "id_factura_enc": 2,
+    "monto": 0
+  },
+  {
+    "id_venta": 2,
+    "id_factura_enc": 1,
+    "monto": 0
+  },
+  {
+    "id_venta": 3,
+    "id_factura_enc": 3,
+    "monto": 0
+  },
+  {
+    "id_venta": 4,
+    "id_factura_enc": 2,
+    "monto": 0
+  }
+]

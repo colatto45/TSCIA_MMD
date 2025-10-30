@@ -1,0 +1,18 @@
+[
+  {
+    "id_provincia": 1,
+    "nombre": "Buenos Aires"
+  },
+  {
+    "id_provincia": 2,
+    "nombre": "Pampa"
+  },
+  {
+    "id_provincia": 3,
+    "nombre": "Cordoba"
+  },
+  {
+    "id_provincia": 4,
+    "nombre": "Chubut"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id_clientes": 1,
+    "nombre": "Juan Pérez",
+    "id_localidad": 1,
+    "domicilio": "Av. Siempre Viva 123"
+  },
+  {
+    "id_clientes": 2,
+    "nombre": "ariel coleto",
+    "id_localidad": 2,
+    "domicilio": "pichincha 35"
+  },
+  {
+    "id_clientes": 3,
+    "nombre": "Carlos López",
+    "id_localidad": 1,
+    "domicilio": "San Martín 789"
+  },
+  {
+    "id_clientes": 4,
+    "nombre": "Lucía Fernández",
+    "id_localidad": 3,
+    "domicilio": "Belgrano 1010"
+  },
+  {
+    "id_clientes": 5,
+    "nombre": "perez juan",
+    "id_localidad": 2,
+    "domicilio": "salta 673"
+  },
+  {
+    "id_clientes": 6,
+    "nombre": "Marco Medina",
+    "id_localidad": 1,
+    "domicilio": "centenario uruguayo 65"
+  },
+  {
+    "id_clientes": 7,
+    "nombre": "lucas otero",
+    "id_localidad": 4,
+    "domicilio": "goya 89"
+  },
+  {
+    "id_clientes": 8,
+    "nombre": "monteverde osvaldo",
+    "id_localidad": 5,
+    "domicilio": "sucre 980"
+  },
+  {
+    "id_clientes": 9,
+    "nombre": "rodrigo joseluis",
+    "id_localidad": 6,
+    "domicilio": "colombres 34"
+  },
+  {
+    "id_clientes": 10,
+    "nombre": "ferreyra hernan",
+    "id_localidad": 7,
+    "domicilio": "las heras 23"
+  }
+]

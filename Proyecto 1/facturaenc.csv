@@ -1,0 +1,5 @@
+id_factura_enc,numero,fecha,cond_iva,id_sucursal,id_cliente
+1,2,11012001,2,21,1
+2,1,1012000,1,21,2
+3,1,1012000,1,21,3
+4,3,16/10/2025,321,22,4

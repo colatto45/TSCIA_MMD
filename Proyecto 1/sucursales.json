@@ -1,0 +1,18 @@
+[
+  {
+    "id_sucursal": 1,
+    "nombre": "max"
+  },
+  {
+    "id_sucursal": 2,
+    "nombre": "macro"
+  },
+  {
+    "id_sucursal": 3,
+    "nombre": "venex"
+  },
+  {
+    "id_sucursal": 4,
+    "nombre": "like"
+  }
+]

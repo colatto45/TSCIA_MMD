@@ -1,0 +1,4 @@
+id_producto,descripcion,precio,id_rubro,stock
+1,Coca,10000,1,10
+2,pc,11000,3,4
+3,notebook,600000,2,0

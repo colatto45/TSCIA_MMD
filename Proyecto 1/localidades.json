@@ -1,0 +1,22 @@
+[
+  {
+    "id_localidad": 1,
+    "nombre": "Capital Federal",
+    "id_provincia": 1
+  },
+  {
+    "id_localidad": 2,
+    "nombre": "Villa Carlos Paz",
+    "id_provincia": 3
+  },
+  {
+    "id_localidad": 3,
+    "nombre": "La Plata",
+    "id_provincia": 1
+  },
+  {
+    "id_localidad": 4,
+    "nombre": "",
+    "id_provincia": 1
+  }
+]

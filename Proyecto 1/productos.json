@@ -1,0 +1,23 @@
+[
+  {
+    "id_producto": 1,
+    "descripcion": "Coca",
+    "precio": 10000,
+    "id_rubro": 1,
+    "stock": 10
+  },
+  {
+    "id_producto": 2,
+    "descripcion": "pc",
+    "precio": 11000,
+    "id_rubro": 3,
+    "stock": 4
+  },
+  {
+    "id_producto": 3,
+    "descripcion": "notebook",
+    "precio": 600000,
+    "id_rubro": 2,
+    "stock": 0
+  }
+]

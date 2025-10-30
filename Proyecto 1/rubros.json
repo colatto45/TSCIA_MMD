@@ -1,0 +1,22 @@
+[
+  {
+    "id_rubro": 1,
+    "descripcion": "metalurgico"
+  },
+  {
+    "id_rubro": 2,
+    "descripcion": "tegnologico"
+  },
+  {
+    "id_rubro": 3,
+    "descripcion": "industrial"
+  },
+  {
+    "id_rubro": 4,
+    "descripcion": "agro"
+  },
+  {
+    "id_rubro": 5,
+    "descripcion": "comercial"
+  }
+]

@@ -1,0 +1,5 @@
+id_factura_det,id_factura_enc,id_producto,cantidad
+1,2,2,1
+2,1,2,10
+3,3,3,12
+4,1,3,14

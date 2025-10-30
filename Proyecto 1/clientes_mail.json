@@ -1,0 +1,46 @@
+[
+  {
+    "id_cliente_mail": 1,
+    "mail": "uno@gmail.com"
+  },
+  {
+    "id_cliente_mail": 2,
+    "mail": "dos@gmail.com"
+  },
+  {
+    "id_cliente_mail": 3,
+    "mail": "tres@gmail.com"
+  },
+  {
+    "id_cliente_mail": 4,
+    "mail": "cuatro@gmail.com"
+  },
+  {
+    "id_cliente_mail": 5,
+    "mail": "cinco@gmail.com"
+  },
+  {
+    "id_cliente_mail": 6,
+    "mail": "seis@gmail.com"
+  },
+  {
+    "id_cliente_mail": 7,
+    "mail": "siete@gmail.com"
+  },
+  {
+    "id_cliente_mail": 8,
+    "mail": "ocho@gmail.com"
+  },
+  {
+    "id_cliente_mail": 9,
+    "mail": "nueve@gmai.com"
+  },
+  {
+    "id_cliente_mail": 10,
+    "mail": NaN
+  },
+  {
+    "id_cliente_mail": 11,
+    "mail": "once@gmail.com"
+  }
+]

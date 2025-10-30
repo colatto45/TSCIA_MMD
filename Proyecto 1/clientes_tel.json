@@ -1,0 +1,18 @@
+[
+  {
+    "id_cliente_tel": 1,
+    "telefono": 112233
+  },
+  {
+    "id_cliente_tel": 2,
+    "telefono": 445566
+  },
+  {
+    "id_cliente_tel": 3,
+    "telefono": 778899
+  },
+  {
+    "id_cliente_tel": 4,
+    "telefono": 101011
+  }
+]
